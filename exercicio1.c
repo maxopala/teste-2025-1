@@ -8,6 +8,8 @@ int main() {
 	printf("xxxxxx");
 
 	int x = 0;
+
+	int y = x + 3;
 	
 	return 0;
 }
