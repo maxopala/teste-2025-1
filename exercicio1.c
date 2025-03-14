@@ -6,8 +6,6 @@ int main() {
 	printf("Hello World Again.");
 
 	printf("xxxxxx");
-
-	int x = 0;
 	
 	return 0;
 }
